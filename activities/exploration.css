@@ -1,5 +1,5 @@
 @font-face {
-    src: url("/fonts/Airstrike.TTF");
+    src: url("../fonts/Airstrike.TTF");
     font-family: Airstrike;
 }
 
@@ -11,7 +11,7 @@ body {
     font-family: "Airstrike", sans-serif;
     padding: 50px 50px 0 50px;
     height: 200px;
-    background-image: url("/images/Milky\ Way\ Art\ GIF\ by\ xponentialdesign.gif");
+    background-image: url("../images/Milky\ Way\ Art\ GIF\ by\ xponentialdesign.gif");
     background-position-y: -200px;
     background-size: cover;
     color: rgb(112, 186, 255);
@@ -49,4 +49,5 @@ body {
     font-size: 30px;
     margin-top: 25px;
     color: rgb(79, 123, 163);
+
 }
